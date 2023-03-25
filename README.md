@@ -13,7 +13,7 @@
 <hr>
 <p>
 This project is made with 
-<a href="#">@AscentAcademy</a> for the internship program for the month of March-2023. <br>
+<a href="#">@AscentAcademy</a> for web development internship program in the month of March-2023. <br>
 
 Interactive interface to perform basic functions such as addition, subtraction, division, and
 multiplication. It will need a display screen to display the user’s input and give the results. The grid
